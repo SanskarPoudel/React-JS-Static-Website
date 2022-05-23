@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  background-color: aqua;
+  padding-left: 20px;
+}
+.projectNum{
+    padding: 30px;
+    padding-top: 35px;
+}
+.projectNum > a{
+    padding: 10px;
+}

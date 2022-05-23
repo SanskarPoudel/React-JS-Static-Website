@@ -1,0 +1,25 @@
+.mainbody {
+  padding: 45px 25px;
+  background-image: url(./images/reactlogo.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: 70%;
+  background-size: 300px;
+  background-color: #282d35;
+}
+.mainbody > h1 {
+  color: #ffffff;
+  font-size: 38px;
+}
+.lists {
+  color: #ffffff;
+  max-width: 400px;
+}
+.lists > li {
+  font-size: 15px;
+  padding-block: 10px;
+}
+.lists > li::marker {
+  font-size: 1.4rem;
+  color: #61dafb;
+}
